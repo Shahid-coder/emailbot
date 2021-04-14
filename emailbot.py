@@ -22,7 +22,7 @@ server=smtplib.SMTP("smtp.gmail.com",587)
 
 server.starttls()#for starting tls
 
-server.login("shahidansari.2088@gmail.com","s5432987624")
+server.login("your-email","your-password")
 
 i=0
 
