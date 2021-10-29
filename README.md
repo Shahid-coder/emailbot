@@ -1,4 +1,4 @@
-# emailbot
+# emailbot👨‍💻
 This repo contains a basic emailbot.
 
 [![Language: python](https://img.shields.io/github/languages/top/shahid-coder/emailbot)](https://python.org)
@@ -14,14 +14,14 @@ emailbot was originally developed by shahid
 
 # Warning:we are not responsible for the misuse of this code.
 
-## Install
+## Install🧐
 This project uses smtplib module .
 No need to install this module because it is a inbuilt module
 
-# how to use 
+# how to use🔥
 To use this code replace "your-email" by your own email and "password" by your own password. 
 replace "from" by your email and "to" by your friends email and "message" by your message and "no_of_emails" by no. of email you want . 
-## clone
+## clone😎
 > For Git bash
 #### To run this emailbot type the following command in your terminal . But remember you have to download python in your system .visit python.org for download . 
 ```
@@ -31,10 +31,10 @@ $ cd emailbot
 
 $ python emailbot.py 
 ```
-## Contribution guidelines
+## Contribution guidelines✍️
 If you want to contribute to emailbot, be sure to review the
 [contribution guidelines](CONTRIBUTING.md).
 We use [GitHub issues](https://github.com/Shahid-coder/emailbot/issues) for
 tracking requests and bugs.
-## License 
+## License🤝
 For license see [License](https://github.com/Shahid-coder/emailbot/blob/main/LICENSE)
