@@ -25,11 +25,13 @@ replace "from" by your email and "to" by your friends email and "message" by you
 > For Git bash
 #### To run this emailbot type the following command in your terminal . But remember you have to download python in your system .visit python.org for download . 
 ```
-$ git clone https://github.com/Shahid-coder/emailbot.git
-
-$ cd emailbot
-
-$ python emailbot.py 
+git clone https://github.com/Shahid-coder/emailbot.git
+```
+```
+cd emailbot
+```
+```
+python emailbot.py 
 ```
 ## Contribution guidelines✍️
 If you want to contribute to emailbot, be sure to review the
