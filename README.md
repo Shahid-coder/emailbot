@@ -4,7 +4,7 @@ This repo contains a basic emailbot.
 [![Language: python](https://img.shields.io/github/languages/top/shahid-coder/emailbot)](https://python.org)
 [![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/emailbot)](https://github.com/shahid-coder/emailbot/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/emailbot)](https://github.com/shahid-coder/emailbot/graphs/contributors)
-# Documentation
+# Documentation🤩
 
 [emailbot](https://github.com/Shahid-coder/emailbot) is an end-to-end open source project 
 for automating emails. It is a comprehensive, flexible emailbot
